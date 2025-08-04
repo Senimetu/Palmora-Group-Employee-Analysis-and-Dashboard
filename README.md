@@ -14,11 +14,11 @@ revealing other issues like the gender pay gap, amongst other possible issues.
 
 🎯 **Objective**
 
-To perform exploratory data analysis (EDA) on Palmoria Grouo data and generate actionable insights using PowerBI tools such as tables, functions, charts, and dashboards to generate the required variables.
+To perform exploratory data analysis (EDA) on Palmoria Group data and generate actionable insights using PowerBI tools such as tables, functions, charts, and dashboards to generate the required variables.
 
 🧾 **Dataset Description**
 
-The dataset contains information from Amazon product site:
+The dataset contains information from Palmoria Group data:
 
 Name, Gender, Department, Salary, Regions, Rating, Dept-Rating, Bonus Rating, Annual Bonus, Total Pay, Salary Band.
 
