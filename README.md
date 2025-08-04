@@ -2,7 +2,7 @@
 This project focuses on gender issues within the Palmora Group and its regions. It provides analyis and corresponding dashboard views using Microsoft Power BI Software. 
 PROJECT TOPIC: AMAZON PRODUCTS REVIEW ANALYSIS
 
-📌OVER VIEW OF THE CASE STUDY
+📌**OVERVIEW OF THE CASE STUDY**
 
 The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues
 bordering on gender inequality in its 3 regions. Unfortunately, the media recently
