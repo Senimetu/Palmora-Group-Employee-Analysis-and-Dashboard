@@ -40,6 +40,7 @@ employees a minimum of $90,000
 ● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000,
 etc.?
 ● Also visualize this by regions
+
 🧠 **Approach & Methodology**
 
 Cleaned the dataset using PowerBI Created new columns: Salary Band, Total Pay and Annual Bonus
